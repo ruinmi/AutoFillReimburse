@@ -163,7 +163,7 @@ public class StartApp {
                 }
                 Cell cell = sheet.getRow(k).getCell(j);
                 if (cell == null) {
-                    cell = sheet.getRow(k).createCell(i);
+                    cell = sheet.getRow(k).createCell(j);
                 }
                 cell.setCellValue("");
             }
