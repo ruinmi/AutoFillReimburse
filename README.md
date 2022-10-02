@@ -1,2 +1,2 @@
 # AutoFillReimburse
-CHECKOUT THE config.properties
+CHECKOUT THE file [config.properties]
